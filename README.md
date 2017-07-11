@@ -1,6 +1,8 @@
 # me
 something about me
 
-## movies - which i watched and enjoyed
+## movie
+
+> which i watched and enjoyed
 
 * Queen of Katwe
