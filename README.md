@@ -5,4 +5,5 @@ something about me
 
 > which i watched and enjoyed
 
+* A Beautiful Mind
 * Queen of Katwe
