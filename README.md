@@ -7,3 +7,9 @@ something about me
 
 * A Beautiful Mind
 * Queen of Katwe
+
+## book
+
+> which i read and enjoyed
+
+* The Count of Monte Cristo(gonna try movie later)
