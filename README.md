@@ -8,6 +8,7 @@ something about me
 * A Beautiful Mind
 * Queen of Katwe
 * Allied (2016)
+* Frankie And Johnny
 
 ## book
 
